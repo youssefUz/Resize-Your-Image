@@ -29,3 +29,4 @@ else: # otherwise if do not want to resize show it!
 c.waitKey(0)
 # when user press any key such as 'k' destroy window(close it)
 c.destroyAllWindows()
+
